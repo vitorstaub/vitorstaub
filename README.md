@@ -1,4 +1,4 @@
-### Olá, eu sou o Vitor Staub! <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+### Olá, eu sou o Vitor Staub! <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/942494759111503904/951165202970329148/final_6228df572e1d1a00fef243a1_455249.gif" width="350"/>
 
 <div style="display: inline_block">
   <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
