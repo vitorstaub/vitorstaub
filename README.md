@@ -1,4 +1,4 @@
-### Olá, eu sou o Vitor Staub!
+### Hi there, I'am Vitor Staub
 
 <div style="display: inline_block">
   <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
