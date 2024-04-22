@@ -1,18 +1,25 @@
-### Hi there, I'am Vitor Staub
-### I'm undergraduate in Computer Engineering at State University of Minas Gerais
+## Hi there!
+### I'm Vitor Staub I'm undergraduate in Computer Engineering at State University of Minas Gerais
 
-### Skills:
-<div style="display: inline_block">
-  <img align="center" alt="Vitor-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Vitor-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
-  <img align="center" alt="Vitor-css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Vitor-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<div/>
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
+
+## 💻 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) 
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript) 
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript) 
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java) 
+![Html5](https://img.shields.io/badge/-Html5-black?style=for-the-badge&logo=Html5) ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
+
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js) 
+![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) 
+![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux) 
+![Static Badge](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
+
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
   
-  ##
-  
-<div>
-  <a href="https://www.linkedin.com/in/vitor-staub/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a> 
-  <a href = "mailto:vitorhugostaub12@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-</div>
+##
