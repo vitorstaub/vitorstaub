@@ -1,5 +1,5 @@
 ## Hi there!
-### I'm Vitor Staub I'm undergraduate in Computer Engineering at State University of Minas Gerais
+### I'm Vitor Staub, I'm undergraduate in Computer Engineering at State University of Minas Gerais
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
@@ -19,7 +19,7 @@
 ![Static Badge](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 
 ## 💾 Major Projects
