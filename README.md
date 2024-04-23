@@ -5,8 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
 
 ## 💻 Technologies & Tools
-<img src="https://i.giphy.com/pVGsAWjzvXcZW4ZBTE.webp" width="500" align="right"/>
-
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript) 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript) 
