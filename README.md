@@ -25,13 +25,10 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
 
 ## 💾 Major Projects
-<h4>
-  
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=data_analysis&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/data_analysis)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=web_scraping&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/web_scraping)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=api-sign-in-up&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/api-sign-in-up)
-</h4>
 
 ##
