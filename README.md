@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there!👋
 ### I'm Vitor Staub, I'm undergraduate in Computer Engineering at State University of Minas Gerais
 
 ## 🌐 Socials
