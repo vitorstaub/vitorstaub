@@ -6,13 +6,14 @@
 
 ## 💻 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) 
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk) 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript) 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript) 
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java) 
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js) 
-![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) 
-![Tailwind](https://img.shields.io/badge/tailwind-black?style=for-the-badge&logo=tailwindcss)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) 
+![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)
+
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux) 
 ![Static Badge](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
@@ -20,6 +21,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
+![IntelliJ](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellijidea)
 
 ## 💾 Major Projects
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=data_analysis&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/data_analysis)
