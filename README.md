@@ -9,7 +9,6 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript) 
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=for-the-badge&logo=Javascript) 
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java) 
-![Html5](https://img.shields.io/badge/-Html5-black?style=for-the-badge&logo=Html5) ![Static Badge](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=Next.js) 
 ![Static Badge](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react) 
