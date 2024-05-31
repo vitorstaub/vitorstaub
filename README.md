@@ -24,7 +24,7 @@
 ![IntelliJ](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellijidea)
 
 ## 💾 Major Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=store-admin&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/web_scraping)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=store-admin&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/store-admin)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=authentication-app&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/authentication-app)
 
