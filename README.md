@@ -17,17 +17,4 @@
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux) 
 ![Static Badge](https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=ubuntu)
-
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ](https://img.shields.io/badge/intellij-black?style=for-the-badge&logo=intellijidea)
-
-## 💾 Major Projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=store-admin&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/store-admin)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=authentication-app&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/authentication-app)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorstaub&repo=data_analysis&bg_color=000&border_color=fff&show_icons=true&icon_color=0000FF&title_color=fff&text_color=FFF)](https://github.com/vitorstaub/data_analysis)
-
 ##
