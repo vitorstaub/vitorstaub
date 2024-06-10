@@ -1,3 +1,13 @@
+```java
+public class VitorStaub {
+    private String name = "Vitor Staub";
+    private String role = "Software Engineer";
+
+    private void welcomeMessage() {
+        System.out.println("Welcome to Vitor Staub's GitHub Profile!");
+    }
+}
+```
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
 
