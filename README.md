@@ -3,7 +3,7 @@ public class VitorStaub {
     private String name = "Vitor Staub";
     private String role = "Software Engineer";
 
-    private void welcomeMessage() {
+    public void welcomeMessage() {
         System.out.println("Welcome to Vitor Staub's GitHub Profile!");
     }
 }
