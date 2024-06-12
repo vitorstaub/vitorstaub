@@ -4,7 +4,7 @@ public class UserProfile {
     private String role = "Software Engineer";
 
     public void welcomeMessage() {
-        System.out.println(""Welcome to " + name + "'s GitHub Profile!"");
+        System.out.print("Welcome to " + name + "'s GitHub Profile!");
     }
 }
 ```
