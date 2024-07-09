@@ -12,7 +12,17 @@ public class UserProfile {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
 
 ## 💻 Technologies & Tools
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk) 
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,py,aws,docker,postgres,ubuntu)]()
+
+Here you'll find some of my projects utilizing the following technologies:
+> Java <br>
+> Spring Boot (Web, Data, JPA) <br>
+> Postgres <br>
+> AWS <br>
+> Docker <br>
+
+<!-- ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk) 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript) 
 
@@ -25,6 +35,6 @@ public class UserProfile {
 
 ![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonwebservices)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
-
+-->
 
 ##
