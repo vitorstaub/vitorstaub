@@ -1,13 +1,8 @@
-```java
-public class UserProfile {
-    private String name = "Vitor Staub";
-    private String role = "Software Engineer";
+# Hi There! 
+### My name is Vitor Staub
 
-    public void welcomeMessage() {
-        System.out.print("Welcome to " + name + "'s GitHub Profile!");
-    }
-}
-```
+👩‍💻 Software Enginner | 🎓 Bachelor's in Computer Engineering | 💡 Thrives on Challenges
+
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
 
