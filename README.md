@@ -1,7 +1,16 @@
-# Hi There! 
-### My name is Vitor Staub
+```console
+vitor@staub:~$ cat whoami.txt
+**Vitor Staub** — Problem solver, code enthusiast, and tech explorer.
 
-👩‍💻 Software Enginner | 🎓 Bachelor's in Computer Engineering | 💡 Thrives on Challenges
+vitor@staub:~$ cat profile.txt
+**Software Engineer** | **Bachelor's in Computer Engineering**
+
+vitor@staub:~$ cat uptime.txt
+⏳ Current Focus:  
+  ✔️ Mastering **Java** and **Spring Boot**  
+  ✔️ Enhancing performance and security in development
+  ✔️ Building **CI/CD pipelines**
+```
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
