@@ -1,15 +1,15 @@
 ```console
-vitor@staub:~$ cat whoami.txt
-**Vitor Staub** — Problem solver, code enthusiast, and tech explorer.
+root@/dev/null ~ λ whoami
+vitorstaub
 
-vitor@staub:~$ cat profile.txt
-**Software Engineer** | **Bachelor's in Computer Engineering**
+root@/dev/null ~ λ summary
+Software Engineer | B.Sc. Computer Engineering
 
-vitor@staub:~$ cat uptime.txt
-⏳ Current Focus:  
-  ✔️ Mastering **Java** and **Spring Boot**  
-  ✔️ Enhancing performance and security in development
-  ✔️ Building **CI/CD pipelines**
+root@/dev/null ~ λ insight
+Current Project:  
+  - Mastering Java and Spring Boot
+  - Improving performance and security in development
+  - Building CI/CD pipelines
 ```
 
 ## 🌐 Socials
