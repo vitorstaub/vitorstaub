@@ -6,9 +6,9 @@ root@/dev/null ~ λ summary
 Software Engineer | B.Sc. Computer Engineering
 
 root@/dev/null ~ λ insight
-Current Project:  
-  - Mastering Java and Spring Boot
-  - Improving performance and security in development
+Current Focus:  
+  - Mastering Machine Learning and AI
+  - Data Science & Exploratory Data Analysis
   - Building CI/CD pipelines
 ```
 
@@ -17,14 +17,16 @@ Current Project:
 
 ## 💻 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,py,aws,docker,postgres,ubuntu)]()
+[![My Skills](https://skillicons.dev/icons?i=py,java,spring,sklearn,tensorflow,postgres,aws,docker,bash,ubuntu)]()
 
 Here you'll find some of my projects utilizing the following technologies:
+> Python <br>
 > Java <br>
-> Spring Boot (Web, Data, JPA) <br>
 > Postgres <br>
 > AWS <br>
 > Docker <br>
+> Machine Learning & AI <br>
+> Exploratory Data Analysis <br>
 
 <!-- ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk) 
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python) 
