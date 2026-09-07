@@ -1,16 +1,4 @@
-```console
-root@/dev/null ~ λ whoami
-vitorstaub
-
-root@/dev/null ~ λ summary
-Software Engineer | B.Sc. Computer Engineering
-
-root@/dev/null ~ λ insight
-Current Focus:  
-  - Mastering Machine Learning and AI
-  - Data Science & Exploratory Data Analysis
-  - Building CI/CD pipelines
-```
+<img width="1080" height="289" alt="neofetch" src="https://github.com/user-attachments/assets/bec1fb2d-70a0-41af-987a-583b8756265f" />
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
