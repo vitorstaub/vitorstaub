@@ -5,7 +5,7 @@
 
 ## 💻 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,spring,sklearn,tensorflow,postgres,aws,docker,bash,ubuntu)]()
+[![My Skills](https://skillicons.dev/icons?i=py,sklearn,tensorflow,postgres,aws,docker,bash,ubuntu)]()
 
 Here you'll find some of my projects utilizing the following technologies:
 > Python <br>
