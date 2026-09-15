@@ -1,4 +1,4 @@
-<img width="1080" height="289" alt="neofetch" src="https://github.com/user-attachments/assets/bec1fb2d-70a0-41af-987a-583b8756265f" />
+<img width="1080" height="289" alt="neofetch" src="https://github.com/user-attachments/assets/7ec3dbeb-8ac3-4615-b1b9-0b3ae567de89" />
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-staub/)
